@@ -24,7 +24,11 @@ Things you may want to cover:
 * ...
 
 git clone https://github.com/spy1031/git-team-practice.git
+
 cd git-team-practice
+
 bundle install
+
 rails db:migrate
+
 rails db:seed
